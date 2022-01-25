@@ -50,26 +50,11 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<br/>
-<br/>
-
-<a href="https://github.com/Arefintanweer/github-readme-activity-graph"><img alt="Arefintanweer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arefintanweer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 
-<p align="center">
+<p align="left">
 
 <a href = "https://www.linkedin.com/in/s-s-arefin-tanweer/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Tanw33R"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Arefintanweer">
-</a>
-<a href="https://github.com/Arefintanweer?tab=followers"><img src="https://img.shields.io/github/followers/Arefintanweer?label=Followers&style=social" alt="GitHub Badge"></a>
